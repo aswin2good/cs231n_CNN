@@ -1,4 +1,4 @@
-'''k Nearest Neighbor Classifier'''
+'''k Nearest Neighbor Classifier (training)'''
 import numpy as np
 
 class NearestNeighbor: 
